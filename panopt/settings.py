@@ -125,3 +125,4 @@ CSRF_TRUSTED_ORIGIN =['https://fast-harbor-24383.herokuapp.com']
 
 import django_heroku
 django_heroku.settings(locals())
+
